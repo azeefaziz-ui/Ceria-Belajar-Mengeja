@@ -1,0 +1,6 @@
+{
+  "name": "CERIA SUKU KATA",
+  "description": "Belajar Suku Kata, Membaca Dengan Ceria! Aplikasi interaktif pendidikan awal kanak-kanak 5-6 tahun mempelajari suku kata Bahasa Melayu dengan bimbingan audio fonetik, permainan interaktif, dan pemantauan ibu bapa.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
