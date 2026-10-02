@@ -1,9 +1,13 @@
 import { LetterItem, PhonicsSoundItem, SyllableWord } from '../types';
+import mascotCeriImg from '../assets/images/mascot_ceri_kucing_1790907238508.jpg';
+import bukuKartunImg from '../assets/images/buku_kartun_1790907253634.jpg';
+import kudaKartunImg from '../assets/images/kuda_kartun_1790907265550.jpg';
+import bajuKartunImg from '../assets/images/baju_kartun_1790907277088.jpg';
 
-export const MASCOT_IMAGE = '/src/assets/images/mascot_ceri_kucing_1790907238508.jpg';
-export const BUKU_IMAGE = '/src/assets/images/buku_kartun_1790907253634.jpg';
-export const KUDA_IMAGE = '/src/assets/images/kuda_kartun_1790907265550.jpg';
-export const BAJU_IMAGE = '/src/assets/images/baju_kartun_1790907277088.jpg';
+export const MASCOT_IMAGE = mascotCeriImg;
+export const BUKU_IMAGE = bukuKartunImg;
+export const KUDA_IMAGE = kudaKartunImg;
+export const BAJU_IMAGE = bajuKartunImg;
 
 // MODUL 1: KENALI HURUF (A - Z) - Fonik Bahasa Melayu Malaysia (KSPK Prasekolah)
 // Setiap konsonan disebut mengikut kaedah fonetik BM standard: 'B' -> 'be' (bukan 'bi'), 'C' -> 'ce', dsb.
