@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 export default defineConfig(() => {
   return {
-    base: process.env.BASE_PATH || '/Ceria-Belajar-Mengeja/',
+    base: '/Ceria-Belajar-Mengeja/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
